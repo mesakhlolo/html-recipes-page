@@ -1,2 +1,2 @@
 # odin-recipes
-project belajar fundamental basic html
+project belajar HTML foundations
